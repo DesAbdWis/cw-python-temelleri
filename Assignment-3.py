@@ -11,5 +11,6 @@ if number.isdigit() == True:
         print(number, "is not an Armstrong number")
 
 else:
-    print("It is an invalid entry. Don't use non-numeric, float, or negative values!")
+    print("It is an invalid entry. Don't use non-numeric,\
+         float, or negative values!")
   
