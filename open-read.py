@@ -1,4 +1,3 @@
-
 rumi = open("rumi.txt", 'r')   
 
 print(rumi.read())  # displays the entire text content
